@@ -1,0 +1,65 @@
+#div1{
+    background-color: antiquewhite;
+    width: 50%;
+    float: right;
+    height: fit-content;
+    margin: 0px;
+}
+
+#div2{
+    background-color: #1B4B9D;
+    width: 50%;
+    float: left;
+    height: fit-content;
+    margin: 0px;
+}
+
+#design{
+    height: 500px;
+    border-radius: 200px;
+}
+
+#sign_in{
+    font-size: 60px;
+    font-family: 'Oswald', sans-serif;
+}
+
+#player_1_username{
+    width: 300px;
+    height: 35px;
+    font-family: 'Lato', sans-serif;
+}
+
+#player_2_username{
+    width: 300px;
+    height: 35px;
+    font-family: 'Lato', sans-serif;
+}
+
+#get_started{
+    background-color: #1B4B9D;
+    block-size: 60px;
+    color: white;
+    outline: 0cm;
+    width: 100px;
+    font-family: 'Rubik', sans-serif;
+}
+
+#tagline{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+    letter-spacing: 5px;
+    margin-top: 80px;
+    line-height: 0.1px;
+
+}
+
+#username1{
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+#username2{
+    font-family: 'Edu SA Beginner', cursive;
+}
